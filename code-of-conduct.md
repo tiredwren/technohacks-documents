@@ -20,9 +20,9 @@ We expect participants to follow these rules at all hackathon venues, online int
 
 If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
 
-Email shstechnovation@gmail.com or talk to an organizer at the event to report an incident.
+Email team@technohacks.org or talk to an organizer at the event to report an incident.
 
-TechnoHacks reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, don't hesitate to get in touch with TechnoHacks by e-mail at incidents@TechnoHacks.io.
+TechnoHacks reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, don't hesitate to get in touch with TechnoHacks by e-mail at team@technohacks.org.
 
 This document was last updated on: 
-December 21 2024
+March 20 2025
